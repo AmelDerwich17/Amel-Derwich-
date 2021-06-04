@@ -6,7 +6,7 @@
 * Msc embedded systems and Medical Data treatment 
 * Soon MBA graduate 
 
-# Project 1: 
+# Project 1: Predict sales of a product (Time series) 
 # Project 2:
 # Project 3: 
 
