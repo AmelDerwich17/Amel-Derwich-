@@ -1,7 +1,7 @@
 # Amel Derwich
-*ML & Data science enthousiast 
+* ML & Data science enthousiast 
 
-#Education
+# Education
 * Bachelor degree in Biomedical enginnering - Medical Image processing 
 * Msc embedded systems and Medical Data treatment 
 * Soon MBA graduate 
