@@ -6,8 +6,8 @@
 * Msc embedded systems and Medical Data treatment 
 * Soon MBA graduate 
 
-# Project 1: Predict sales of a product (Time series) 
-# Project 2:
-# Project 3: 
+# Project 1: Web scraping with python 
+# Project 2: Twitter scraping 
+# Project 3: Predict sales of a product (Time series)
 
 
