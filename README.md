@@ -1,5 +1,5 @@
 # Amel Derwich
-* ML & Data science enthousiast 
+* ML & Data science enthusiast 
 
 # Education
 * Bachelor degree in Biomedical enginnering - Medical Image processing 
